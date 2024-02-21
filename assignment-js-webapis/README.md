@@ -1,4 +1,3 @@
-# Web-API-Code-Quiz
 Coding Quiz Challenge
 This project is a web-based coding quiz challenge that tests users' knowledge of HTML, CSS, and JavaScript fundamentals. Users can take the quiz, answer multiple-choice questions, and receive a final score based on their performance. The project is built using HTML, CSS, and JavaScript.
 
